@@ -13,6 +13,6 @@ chmod a+x sendHomeStatus.sh
 ./sendHomeStatus.sh
 
 
-# To integrate sensor make changes in PIR.py and 
+# To integrate sensor make changes in PIR.py  
 
 
